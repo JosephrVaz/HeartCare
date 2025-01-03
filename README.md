@@ -49,8 +49,5 @@ To develop a hybrid system that accurately predicts the risk of heart failure in
 - Develop a user interface for easier interaction with the system.
 - Validate the system's performance on a larger and more diverse patient population.
 
-## Usage
-
-1. **Install required libraries:**
 ## License
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License. See the [LICENSE](./LICENSE) file for details.
